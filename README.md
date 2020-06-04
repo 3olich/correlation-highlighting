@@ -12,4 +12,5 @@ converts csv to graphics, the meaning of which is clear only to me
 Потом когда речь пошла о публикации оказалось, что html никому не нужен, а нужна статика. Да и методы plotly сильно устарели, и я переехал на matplotlib.
 
 Gui - PyQT5
+
 xlsxwriter для генерации отчета (такие были требования)
